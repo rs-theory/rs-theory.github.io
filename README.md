@@ -13,6 +13,7 @@
 - [Elixir RS2.pdf](https://rs-theory.github.io/Elixir%20RS2.pdf)
 - [Extraterrestrial Albino Brain Chiggers (--daniel).pdf](https://rs-theory.github.io/Extraterrestrial%20Albino%20Brain%20Chiggers%20%28--daniel%29.pdf)
 - [Life, the Universe and Digital Society (--daniel).pdf](https://rs-theory.github.io/Life%2C%20the%20Universe%20and%20Digital%20Society%20%28--daniel%29.pdf)
+- [RS2-Theory.pdf](https://rs-theory.github.io/RS2-Theory.pdf)
 - [Reprogramming for an Open Mind (--daniel).pdf](https://rs-theory.github.io/Reprogramming%20for%20an%20Open%20Mind%20%28--daniel%29.pdf)
 - [Rubicon (--daniel).pdf](https://rs-theory.github.io/Rubicon%20%28--daniel%29.pdf)
 - [Space Travel - Science is Fiction (--daniel).pdf](https://rs-theory.github.io/Space%20Travel%20-%20Science%20is%20Fiction%20%28--daniel%29.pdf)
